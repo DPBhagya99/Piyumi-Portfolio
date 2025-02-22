@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "piyumi-portfolio",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
